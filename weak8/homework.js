@@ -42,4 +42,4 @@ function primebetween(a, b)
     }
     console.log(primes);
 }
-primebetween(7, 67);
+primebetween(7, 67); 
