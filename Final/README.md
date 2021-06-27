@@ -1,0 +1,1 @@
+本專案學習自https://developer.mozilla.org/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
