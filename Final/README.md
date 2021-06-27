@@ -1,5 +1,6 @@
-# 本專案學習自
+# 本專案學習並且參考自
 https://developer.mozilla.org/zh-TW/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+https://github.com/end3r/Gamedev-Canvas-workshop
 
 ### 圖形繪製使用Canvas
 設定繪製區塊
